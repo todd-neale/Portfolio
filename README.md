@@ -1,5 +1,20 @@
 # Portfolio
 
+#### Record Box - https://recordbox-ror.herokuapp.com/
+<img height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" /> &nbsp; &nbsp; <img height='30' src="https://doc.octoperf.com/monitoring/create-connection/postgres/img/postgresql-logo.png" />  &nbsp; <img height='30' src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" />
+- a small app built to store your music and keep track of your records seeded with one of my favouite record labels.<br>
+- You can perform all the CRUD actions add your records to your box, and keep track of them.<br>
+- I build this app to trial
+    - PG search
+    - Devise
+    - API with OpenURI and the discogs API
+    - Testing
+       - System Tests using MiniTest & Capybara
+- the app is built using Ruby on Rails, with HTML and CSS front-end
+<br><br>
+<img width="80%" src="screenshots/recordboxscreenshot.png"/>
+<br>
+<img width="80%" src="screenshots/recordboxscreenshot1.png"/>
 
 #### Tash Richards Yoga - https://tashrichards.yoga/
 <img height='30' src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nuxtjs-512.png" />
