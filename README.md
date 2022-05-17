@@ -27,7 +27,7 @@
 
 
 #### Spotify Recently Played
-<img height='30' src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" /> &nbsp; <img height='30' src="https://cdn.iconscout.com/icon/free/png-512/spotify-5-56905.png" />
+<img height='30' src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" />
 - A single page web app to display your recently played tracks on Spotify. <br>
 - The app is built using React.js and the Spotify API with oAuth.
 <br><br>
