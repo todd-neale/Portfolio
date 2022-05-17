@@ -26,6 +26,14 @@
 <img width="80%" src="screenshots/tashyogascreenshot1.png"/>
 
 
+#### Spotify Recently Played
+<img height='30' src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" /> &nbsp; <img height='30' src="https://cdn.iconscout.com/icon/free/png-512/spotify-5-56905.png" />
+- A single page web app to display your recently played tracks on Spotify. <br>
+- The app is built using React.js and the Spotify API with oAuth.
+<br><br>
+<img width="80%" src="screenshots/spotifyrecentlyplayed.png"/>
+
+
 #### Creative Coding
 <img height='30' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 - I was reminded how important it is to explore our creative side. Here is a sketch I created after taking Bruno Imbrizi's excellent Creative Coding course on Domestika.<br>
