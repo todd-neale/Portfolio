@@ -31,6 +31,7 @@
 - A single page web app to display your recently played tracks on Spotify. <br>
 - The app is built using React.js and the Spotify API with oAuth.
 <br><br>
+
 <img width="80%" src="screenshots/spotifyrecentlyplayed.png"/>
 
 
